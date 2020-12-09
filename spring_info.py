@@ -14,7 +14,6 @@ header = {
    'User-Agent': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; ',
 }
 
-size_limit = 1024000000  # 接收限制 1MB
 
 def scan(url):
     try:
