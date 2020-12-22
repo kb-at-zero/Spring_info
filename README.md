@@ -1,6 +1,6 @@
 # Spring_info
 检测Spring信息泄露，支持单个url以及多url检测
-                                                      
+                                                                                              
                                                                         ___      
                                         _                   _         /'___)     
                       ___  _ _    _ __ (_)  ___     __     (_)  ___  | (__   _   
@@ -9,6 +9,6 @@
                     (____/| ,__/'(_)   (_)(_) (_)`\__  |   (_)(_) (_)(_)  `\___/'
                           | |                    ( )_) |                         
                           (_)                     \___/'                         @KB-AT
-           
-
-Usage: spring_info.py -t < target > or -f < urls_file >
+            
+            
+Usage: spring_info.py -t <target> or -f <urls_file>
