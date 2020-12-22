@@ -15,8 +15,6 @@ header = {
    'Connection':'close;'
 }
 
-list_size=[]
-
 def scan(url,flag):
     try:
         respon = requests.get(url,headers=header,timeout=3,verify=False)
