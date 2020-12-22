@@ -11,4 +11,4 @@
                           (_)                     \___/'                         @KB-AT
             
             
-Usage: spring_info.py -t <target> or -f <urls_file>
+Usage: spring_info.py -t < target > or -f < urls_file >
