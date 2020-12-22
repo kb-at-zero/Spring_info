@@ -22,7 +22,7 @@ def scan(url,flag):
         respon_size = 0
         if (respon.status_code == 200):
             respon_size = len(respon.content)
-            if (respon_size == flag | flag == None):
+            if (respon_size == flag | flag == null):
                 sys.exit(0)
             else:
                 now = time.strftime("%Y/%m/%d %H:%M:%S", time.localtime())
